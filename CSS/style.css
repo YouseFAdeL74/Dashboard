@@ -33,7 +33,7 @@ html {
 
 ::-webkit-scrollbar-thumb {
   background-color: #0d6efd;
-  border-radius: 5px;
+  bord.user-content .mycontent .texter-radius: 5px;
 }
 
 /* End Global Rule's */
@@ -1406,6 +1406,8 @@ input[type="radio"] {
 
 .user-content .mycontent .text {
   position: relative;
+  width: 150px;
+  margin: auto;
 }
 
 .user-content .mycontent .text span {
