@@ -780,6 +780,13 @@ color: #777;
   transition: opacity 1s ease-in;
   animation: flash 1.5s 0.5s linear infinite;
 }
+
+@media(max-width:767px){
+  .curret .box-curret span::before {
+    left: 51%;
+  }
+}
+
 @keyframes flash {
   0%{
     opacity: 0;
