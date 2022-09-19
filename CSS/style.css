@@ -1404,9 +1404,12 @@ input[type="radio"] {
   color: #0070ff;
 }
 
+.user-content .mycontent .text {
+  position: relative;
+}
+
 .user-content .mycontent .text span {
   color: #777;
-  position: relative;
 }
 
 .user-content .mycontent .text span::before {
