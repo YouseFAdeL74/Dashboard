@@ -1985,7 +1985,7 @@ span.price {
 }
 
 .friends .friend-info .image img {
-  width: 50px;
+  width: 80px;
   border-radius: 50%;
   object-fit: cover;
 }
