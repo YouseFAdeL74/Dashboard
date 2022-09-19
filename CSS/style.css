@@ -1064,7 +1064,7 @@ table {
 table thead tr th {
   background-color: #ccc;
   padding: 10px !important;
-  border-left: 1px solid #ccc;
+  border-left: 1px solid #ddd;
 }
 
 table img {
